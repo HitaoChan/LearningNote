@@ -8,6 +8,20 @@ relating to or caused by bacteria.
 
 `"a bacterial infection"`
 
+## caricature
+
+*noun*
+
+1. a picture, description, or imitation of a person in which certain striking characteristics are exaggerated in order to create a comic or grotesque effect.
+
+   `"there are elements of caricature in the portrayal of the hero"`
+
+*verb*
+
+1. make or give a comically or grotesquely exaggerated representation of (someone or something).
+
+   `"he was caricatured on the cover of *TV Guide*"`
+
 ## controversy
 
 disagreement, typically when prolonged, public, and heated.
@@ -126,6 +140,8 @@ shake involuntarily, typically as a result of anxiety, excitement, or frailty.
 
 `"Isobel was trembling with excitement"`
 
+---
+
 
 
 # 词组
@@ -157,3 +173,14 @@ of a kind that; like.
 ## literally
 
 递进，强调
+
+## vigorous
+
+strong, healthy, and full of energy.
+
+## trivial
+
+of little value or importance.
+
+`"huge fines were imposed for trivial offenses"`
+
