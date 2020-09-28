@@ -238,6 +238,14 @@ connected with God (or the gods) or dedicated to a religious purpose and so dese
 
 a person who is lazy and has low standards of cleanliness.
 
+## scold
+
+*verb*
+
+​	remonstrate with or rebuke (someone) angrily.
+
+​	"Mom took Anna away, scolding her for her bad behavior"
+
 ## tackle
 
 make determined efforts to deal with (a problem or difficult task).
