@@ -148,6 +148,14 @@ a hormone produced in the pancreas by the islets of Langerhans, which regulates 
 
 胰岛素
 
+## insidious
+
+*adjective*
+
+1. proceeding in a gradual, subtle way, but with harmful effects.
+
+   "sexually transmitted diseases can be insidious and sometimes without symptoms"
+
 ## irony
 
 *noun*
